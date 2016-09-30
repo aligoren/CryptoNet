@@ -6,6 +6,8 @@ Quick Crypto Lib for .NET (Using public resources)
 
 Initilaize Crypto class.
 
+**Sample:**
+
 ```csharp
 Crypto c = new Crypto();
 
